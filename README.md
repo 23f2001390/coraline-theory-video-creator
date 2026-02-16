@@ -35,8 +35,8 @@ This tool was used to generate a full analysis on the entomological motifs in th
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/23f2001390/the-hidden-entomology-of-coraline.git
-    cd the-hidden-entomology-of-coraline
+    git clone https://github.com/23f2001390/coraline-theory-video-creator.git
+    cd coraline-theory-video-creator
     ```
 
 2.  **Install Dependencies**
