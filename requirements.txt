@@ -1,0 +1,14 @@
+streamlit
+requests
+moviepy
+openai-whisper
+gTTS
+google-genai
+selenium
+webdriver-manager
+pandas
+Pillow
+tqdm
+opencv-python-headless
+sentence-transformers
+rembg
