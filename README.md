@@ -7,6 +7,9 @@
 This project demonstrates an end-to-end AI pipeline that combines computer vision, natural language processing, and automated video editing to generate high-quality documentary content without human intervention.
 
 ## 🎥 Example Output: "The Hidden Entomology of Coraline"
+
+[![Watch the Example Video](https://img.youtube.com/vi/KVWmnIjI2b0/0.jpg)](https://www.youtube.com/watch?v=KVWmnIjI2b0)
+
 This tool was used to generate a full analysis on the entomological motifs in the film. The system autonomously:
 *   Identified insect-related scenes using CLIP.
 *   Generated a script connecting bugs to the Beldam's trap.
