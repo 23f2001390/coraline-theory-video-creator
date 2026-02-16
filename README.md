@@ -28,8 +28,8 @@ This project demonstrates an end-to-end AI pipeline that combines computer visio
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/hidden-entomology-coraline.git
-    cd hidden-entomology-coraline
+    git clone https://github.com/23f2001390/the-hidden-entomology-of-coraline.git
+    cd the-hidden-entomology-of-coraline
     ```
 
 2.  **Install Dependencies**
