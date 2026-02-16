@@ -17,9 +17,9 @@ This tool was used to generate a full analysis on the entomological motifs in th
 
 ## 🚀 Key Features
 
-*   **Autonomous Narrative Synthesis**: Uses **Gemini 2.1 Flash** to analyze film semiotics and generate a structured script correlated with visual themes.
+*   **Autonomous Narrative Synthesis**: Uses **Gemini 2.5 Flash** to analyze film semiotics and generate a structured script correlated with visual themes.
 *   **Theory-Driven Analysis**: Can be prompted with any theory (e.g., "Color Psychology", "The Beldam's Origin") to generate a specific video essay.
-*   **Semantic Scene Retrieval**: Implements a **CLIP-based Vector Search** engine to find exact film segments matching the script's thematic content.
+*   **Visual-Semantic Alignment**: Implements a **CLIP-based Vector Search** engine that maps specific "visual plan chunks" from the AI generated script to the most relevant **extracted scene clips**, ensuring narrative coherence.
 *   **High-Performance Animation Engine**: A custom **Multi-Threaded Rendering System** (built with PIL & NumPy) that composites animated character overlays at 60fps, 40x faster than real-time.
 *   **Automated Editing Pipeline**: Orchestrates **FFmpeg**, **Whisper ASR**, and **Kokoro TTS** to synchronize narration, subtitles, and background music with frame-perfect precision.
 *   **Hybrid AI Architecture**:leverages both Cloud LLMs (Gemini) for complex reasoning and Local Models (Ollama/Qwen) for rapid decision-making.
@@ -28,7 +28,7 @@ This tool was used to generate a full analysis on the entomological motifs in th
 
 *   **Core Framework**: Python, Streamlit
 *   **AI Models**:
-    *   **LLM**: Google Gemini 2.1 Flash, Qwen 2.5 (via Ollama)
+    *   **LLM**: Google Gemini 2.5 Flash, Qwen 2.5 (via Ollama)
     *   **Vision**: CLIP (Contrastive Language-Image Pre-Training), OpenCV
     *   **Audio**: OpenAI Whisper (ASR), Kokoro TTS (Voice Synthesis)
 *   **Video Processing**: FFmpeg, MoviePy, PIL (Pillow)
